@@ -1,5 +1,3 @@
-# Ben Magill
-
 Welcome! This is my temporary portfolio page while I work on a proper one.  
 
 ## Skills
