@@ -8,14 +8,14 @@ Welcome! This is my temporary portfolio page while I work on a proper one.
     - Express, Restify and NestJS
     - React.JS
     - Electron
-    - Mongoose
-    - AWS SDK
     - Jest
 - GraphQL
 - HTML
 - CSS
-- MongoDB
+- MongoDB + Mongoose
 - Postgres
+- AWS
+- Docker
 - Rust
 - Git
 
