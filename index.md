@@ -27,7 +27,7 @@ In order of newest to oldest
 1. [IMDB](https://github.com/BenMagill/imdb) (Unfinished) - An in-memory database  
 1. [CHIP-8 simulator](https://github.com/BenMagill/chip8-rust) (Unfinished) - Written in Rust 
 1. [JSON2](https://github.com/BenMagill/jsonparser) (Unfinished) - A JSON parser and serialiser with support for extensions 
-1. [HTTPDB](https://github.com/BenMagill/httpDB) - A database that can is controlled over the http protocol.
+1. [HTTPDB](https://github.com/BenMagill/httpDB) - A database that is controlled over the http protocol.
 1. [Personal Cloud Storage](https://github.com/BenMagill/Personal-Cloud-Storage) - A self hostable cloud storage solution.
 1. [LMC simulator](https://github.com/BenMagill/lmc-simulator-ui) - Executes Little Man Computer Code in the browser.
 1. [Calculator app](https://github.com/BenMagill/calculator) - A simple calculator app.
